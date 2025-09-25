@@ -180,6 +180,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## References
+
+- **Ronneberger, O., Fischer, P., & Brox, T.** (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. *MICCAI 2015*. [Paper PDF](https://arxiv.org/pdf/1505.04597)
+- **Mateusz Buda et al.** Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm. *Computers in Biology and Medicine*, 2019. [Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
+
 ## Citation
 
 If you use this implementation in your research, please cite:
