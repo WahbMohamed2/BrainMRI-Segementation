@@ -171,11 +171,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 3. Add tests for new functionality
 4. Submit a pull request
 
-## References
-
-- **Ronneberger, O., Fischer, P., & Brox, T.** (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. *MICCAI 2015*.
-- **Mateusz Buda et al.** Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm. *Computers in Biology and Medicine*, 2019.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
